@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>AM.ApplicationCore</id>
+    <version>1.0.0</version>
+    <authors>AM.ApplicationCore</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\.NET2022-2023\Repo-1Semestre\Alternance\AirportManagement\AM.ApplicationCore\bin\Debug\net6.0\AM.ApplicationCore.dll" target="lib\net6.0\AM.ApplicationCore.dll" />
+  </files>
+</package>
